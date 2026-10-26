@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="EcGr1/EcGr1.csproj" Id="d67de00b-4dce-44b1-bfb9-97ca68736d0d" />
   <Project Path="Intro/Intro.csproj" />
   <Project Path="LanguageFundamentals/LanguageFundamentals.csproj" Id="c2c9a63a-caab-4fd1-8833-487a0125ec0c" />
 </Solution>
