@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
 
-            //ex1
+            //ex1 Intershicmbarea a doua numere
             int a, b, aux;
             Console.Write("Introduceti valoarea lui a:");
             a = int.Parse(Console.ReadLine());
