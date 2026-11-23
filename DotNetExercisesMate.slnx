@@ -1,5 +1,7 @@
 <Solution>
+  <Project Path="DataHandling/DataHandling.csproj" Id="2aa7e6c7-c4b9-4b53-84b7-f504c7735715" />
   <Project Path="EcGr1/EcGr1.csproj" Id="d67de00b-4dce-44b1-bfb9-97ca68736d0d" />
+  <Project Path="ErrorsAndExceptions/ErrorsAndExceptions.csproj" Id="804b9c88-d342-46f0-a288-a9459023c3bb" />
   <Project Path="Intro/Intro.csproj" />
   <Project Path="LanguageFundamentals/LanguageFundamentals.csproj" Id="c2c9a63a-caab-4fd1-8833-487a0125ec0c" />
 </Solution>
